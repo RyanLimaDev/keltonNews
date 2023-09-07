@@ -9,6 +9,9 @@ const config: Config = {
   theme: {
     colors: {
       'header': '#053165',
+      'black': 'rgb(0 0 0)',
+      'font-news': "#333333",
+      'font-white': "#ffffff"
     }
   },
   plugins: [],
