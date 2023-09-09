@@ -24,7 +24,7 @@ export default function RootLayout({
     <html className={`h-full + ${inter.className}`} lang="pt-br">
       <body className="h-full">
         <header className="flex items-center justify-center bg-header w-full h-1/6">
-          <div className="w-1/2 md:w-1/3 lg:w-1/3 cursor-pointer"><Image src={KeltonNewsImage} alt="Kelton_News"/></div>
+          <div className="w-1/2 md:w-1/3 lg:w-1/4 cursor-pointer"><Image src={KeltonNewsImage} alt="Kelton_News"/></div>
         </header>
           {children}
         <footer className="flex flex-col bg-header w-full h-1/5 mt-10">
