@@ -46,7 +46,7 @@ export default function Home() {
           </span> 
           <br/>
           <div className='flex justify-center w-full'>
-            <Image src={energyDrink} alt='iberAds' className='cursor-pointer mt-4 mb-4 max-h-[70vh]'/>
+            <Image src={energyDrink} alt='iberAds' className='cursor-pointer mt-4 mb-4 max-h-[80vh]'/>
           </div>
           <span>
             O grupo conspiracionista, conhecido como
